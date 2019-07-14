@@ -1,2 +1,2 @@
 # Threes-2014
-In 2014, Threes game was implemented to run on the Android.
+Threes game for Android platform created in 2014
