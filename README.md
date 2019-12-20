@@ -1,5 +1,4 @@
 # Threes-2014
-Android version of the famous game Threes
 
 - platform: Android
 - language: java
